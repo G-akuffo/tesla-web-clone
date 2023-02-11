@@ -7,12 +7,12 @@ const styles = StyleSheet.create({
   },
   titles: {
     alignItems: "center",
-    width: "100&",
+    width: "100%",
     marginTop: "30%",
   },
   title: {
     fontSize: 40,
-    fontWeight: 500,
+    fontWeight: "500",
   },
   subtitle: {
     fontSize: 16,
